@@ -1,2 +1,2 @@
 # BookRu_Downloader
-Download books from site BookRu
+Download books from site Book.ru
