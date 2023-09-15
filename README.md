@@ -1,6 +1,8 @@
 # BookRu_Downloader
 Download books from site Book.ru
 
+Скачать книги с сайта book.ru
+
 How to use: 
 
 Insert number of pages from your book in code
